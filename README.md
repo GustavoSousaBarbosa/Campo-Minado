@@ -11,7 +11,7 @@ O jogador pode, com uma ação, sinalizar ou retirar uma sinalização de qualqu
 
 Busque vídeos e alguma implementação online para entender melhor o jogo.
 
-[🗃 Arquivo `.zip` com a versão portável](dist/Campo-Minado.zip)
+[🗃 Arquivo `.zip` com a versão portável](dist/publish.zip)
 
 Para executar:
 
